@@ -4,6 +4,9 @@ Leaflet map of CT Open Communities Alliance, Opportunity Index 2014
 ## Demo
 https://jackdougherty.github.io/ctoca-opp-index/index.html
 
+## Google Sheet data
+https://docs.google.com/spreadsheets/d/1HVwCMpVWLHVtSXXOGDG3rqzYfNGyJ_6sAs2OWzj52Zc/edit#gid=0
+
 ## Data Sources and Methods
 
 2014 Opportunity Index Levels, compiled by Scott Gaul for CTOCA.org, last updated February 9, 2015
