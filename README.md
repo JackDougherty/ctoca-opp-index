@@ -39,3 +39,12 @@ Jack Dougherty made these changes when preparing Scott's CSV table (renamed opp-
 
 6. Downloaded CT Census 2010 tract map (from UConn MAGIC as shapefile and converted to GeoJSON format) and used http://mapshaper.org to join with the CSV table above, to create new geospatial file:
 - opp-index-2014.GeoJSON
+
+7. Important headers
+- tract2010
+- town
+- index2014
+- level2014
+
+## Credits
+- for map template, see credits and licenses in http://github.com/jackdougherty/leaflet-maps-with-google-sheets/
